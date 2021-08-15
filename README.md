@@ -1,6 +1,6 @@
 # Getting Started with React Routing Example.
 
-Instructions
+### Instructions
 1. Clone the repo/Download zip
 git clone https://github.com/VinodLuhar248/react-routing-example.git
 
